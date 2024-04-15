@@ -1,0 +1,24 @@
+{
+  "name": "ts-morph-bug-report",
+  "version": "1.0.0",
+  "description": "A repo to recreate a possible bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCDenton47/ts-morph-bug-report.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCDenton47/ts-morph-bug-report/issues"
+  },
+  "homepage": "https://github.com/JCDenton47/ts-morph-bug-report#readme",
+  "dependencies": {
+    "ts-morph": "^22.0.0",
+    "typescript": "^5.4.5"
+  }
+}

@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JCDenton47/ts-morph-bug-report#readme",
   "dependencies": {
+    "@types/node": "^20.12.7",
     "ts-morph": "^22.0.0",
     "typescript": "^5.4.5"
   }
